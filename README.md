@@ -1,1 +1,1 @@
-Olá, esse é um repositório com foco em aprendizagem, nesse curso aprendi sobre logica de programação, através do editor de codigos p5js.org, desenvolvendo um jogo de pong com ajuda da escola de Tecnlogia Alura.
+Olá, esse é um repositório com foco em aprendizagem, nesse curso entendi um pouco mais sobre logica de programação, através do editor de codigos p5js.org, desenvolvendo um jogo de pong com ajuda da escola de Tecnlogia Alura.
